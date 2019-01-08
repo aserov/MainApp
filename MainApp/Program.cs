@@ -6,8 +6,13 @@ namespace MainApp
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Main app");
+            PrintStartMessage();
             Console.ReadKey();
+        }
+
+        public static void PrintStartMessage()
+        {
+            Console.WriteLine("Main application.");
         }
     }
 }

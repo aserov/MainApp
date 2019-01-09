@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainApp", "MainApp\MainApp.csproj", "{8891728F-FA75-4859-A92A-5EE177A41798}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpfulLibrary", "core\HelpfulLibrary\HelpfulLibrary.csproj", "{22D6CDEE-9421-4922-A1CE-B51FAAF1E18F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpfulLibrary", "HelpfulLibrary\HelpfulLibrary\HelpfulLibrary.csproj", "{22D6CDEE-9421-4922-A1CE-B51FAAF1E18F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

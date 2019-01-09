@@ -1,3 +1,3 @@
-[submodule "core"]
-	path = core
+[submodule "HelpfulLibrary"]
+	path = HelpfulLibrary
 	url = https://github.com/aserov/HelpfulLibrary.git
